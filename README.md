@@ -14,4 +14,4 @@
 
 	The decryption process is performed in a similar way using (2)
 
-						D_n(x) = (x - n) % 61
+						D_n(x) = (x - n) % 61					(2)
