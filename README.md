@@ -16,3 +16,6 @@
 	The decryption process is performed in a similar way using (2)
 
 						D_n(x) = (x - n) % 61					(2)
+						
+	It is worth mentioning that the cipher considers the use of an alphabet of letters 
+	from A to Z lowercase and uppercase, as well as the numbers from zero to nine.
